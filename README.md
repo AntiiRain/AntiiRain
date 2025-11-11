@@ -5,19 +5,19 @@ waka testing...
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 October 2025 - To: 09 November 2025
+From: 23 October 2025 - To: 10 November 2025
 
-Total Time: 8 hrs 42 mins
+Total Time: 9 hrs 25 mins
 
-C++                2 hrs 50 mins   >>>>>>>>-----------------   32.60 %
-C#                 2 hrs 26 mins   >>>>>>>------------------   27.96 %
-Python             2 hrs 3 mins    >>>>>>-------------------   23.63 %
-Shell Script       16 mins         >------------------------   03.22 %
-Bash               11 mins         >------------------------   02.14 %
-Text               9 mins          -------------------------   01.76 %
-Markdown           6 mins          -------------------------   01.19 %
-CMake              6 mins          -------------------------   01.19 %
-CSV/TSV            2 mins          -------------------------   00.57 %
+C#                 3 hrs 1 min     >>>>>>>>-----------------   32.19 %
+C++                2 hrs 56 mins   >>>>>>>>-----------------   31.18 %
+Python             2 hrs 3 mins    >>>>>--------------------   21.84 %
+Shell Script       16 mins         >------------------------   02.98 %
+Bash               11 mins         -------------------------   01.98 %
+Text               9 mins          -------------------------   01.63 %
+CMake              6 mins          -------------------------   01.15 %
+Markdown           6 mins          -------------------------   01.10 %
+CSV/TSV            2 mins          -------------------------   00.53 %
 ```
 
 <!--END_SECTION:waka-->
