@@ -5,14 +5,14 @@ waka testing...
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 October 2025 - To: 30 June 2026
+From: 23 October 2025 - To: 01 July 2026
 
-Total Time: 130 hrs 40 mins
+Total Time: 133 hrs 22 mins
 
-Markdown           31 hrs 41 mins        >>>>>--------------------   21.83 %
-C#                 27 hrs 26 mins        >>>>>--------------------   18.90 %
-C++                21 hrs 40 mins        >>>>---------------------   14.92 %
-Other              14 hrs 32 mins        >>>----------------------   10.02 %
+Markdown           32 hrs 8 mins         >>>>>--------------------   21.49 %
+C#                 27 hrs 26 mins        >>>>>--------------------   18.35 %
+C++                22 hrs 53 mins        >>>>---------------------   15.31 %
+Other              16 hrs 12 mins        >>>----------------------   10.83 %
 ```
 
 <!--END_SECTION:waka-->
